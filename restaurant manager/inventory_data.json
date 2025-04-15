@@ -1,0 +1,69 @@
+{
+    "inventory": [
+        {
+            "name": "chicken",
+            "quantity": 20,
+            "expiration_date": "04/14/2025",
+            "category": "meat"
+        }
+    ],
+    "waste": [
+        {
+            "item": "boba",
+            "quantity_wasted": 20,
+            "date": "03/09",
+            "reason": "Expired",
+            "notes": "",
+            "batch_id": null
+        },
+        {
+            "item": "rice",
+            "quantity_wasted": 20,
+            "date": "03/09",
+            "reason": "Expired",
+            "notes": "",
+            "batch_id": null
+        },
+        {
+            "item": "boba",
+            "quantity_wasted": 20,
+            "date": "04/08",
+            "reason": "Expired",
+            "notes": "",
+            "batch_id": 0
+        },
+        {
+            "item": "rice",
+            "quantity_wasted": 20,
+            "date": "04/08",
+            "reason": "Expired",
+            "notes": "",
+            "batch_id": 0
+        }
+    ],
+    "waste_batches": [
+        {
+            "batch_date": "04/08",
+            "items": [
+                {
+                    "item": "boba",
+                    "quantity_wasted": 20,
+                    "date": "04/08",
+                    "reason": "Expired",
+                    "notes": "",
+                    "batch_id": 0
+                },
+                {
+                    "item": "rice",
+                    "quantity_wasted": 20,
+                    "date": "04/08",
+                    "reason": "Expired",
+                    "notes": "",
+                    "batch_id": 0
+                }
+            ],
+            "total_waste": 40,
+            "notes": "supplies were expired"
+        }
+    ]
+}
