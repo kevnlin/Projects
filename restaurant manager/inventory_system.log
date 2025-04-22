@@ -1,0 +1,233 @@
+2025-04-19 18:04:06,016 - INFO - PIN successfully updated
+2025-04-19 18:04:07,955 - WARNING - Failed login attempt 1
+2025-04-19 18:04:11,943 - INFO - Successful login
+2025-04-19 18:04:12,090 - ERROR - Error loading secure data: 
+2025-04-19 18:04:12,091 - INFO - Data loaded successfully
+2025-04-19 18:04:31,635 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 18:04:31,637 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 18:04:31,640 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 18:04:31,640 - INFO - Data saved successfully
+2025-04-19 18:05:06,989 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 18:05:06,991 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 18:05:06,993 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 18:05:06,993 - INFO - Data saved successfully
+2025-04-19 18:05:14,972 - WARNING - Failed login attempt 1
+2025-04-19 18:05:20,471 - INFO - Successful login
+2025-04-19 18:05:20,613 - INFO - Data loaded successfully
+2025-04-19 18:05:24,805 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 18:05:24,810 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 18:05:24,815 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 18:05:24,815 - INFO - Data saved successfully
+2025-04-19 18:05:28,121 - INFO - Successful login
+2025-04-19 18:05:28,254 - INFO - Data loaded successfully
+2025-04-19 18:09:18,539 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 18:09:18,542 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 18:09:18,544 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 18:09:18,544 - INFO - Data saved successfully
+2025-04-19 18:10:20,306 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 18:10:20,309 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 18:10:20,312 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 18:10:20,312 - INFO - Data saved successfully
+2025-04-19 18:11:13,320 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 18:11:13,322 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 18:11:13,326 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 18:11:13,326 - INFO - Data saved successfully
+2025-04-19 18:11:20,203 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 18:11:20,206 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 18:11:20,209 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 18:11:20,209 - INFO - Data saved successfully
+2025-04-19 18:12:42,295 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 18:12:42,302 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 18:12:42,308 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 18:12:42,308 - INFO - Data saved successfully
+2025-04-19 18:21:45,956 - INFO - Successful login
+2025-04-19 18:21:45,973 - INFO - PIN successfully updated
+2025-04-19 18:21:49,444 - WARNING - Failed login attempt 1
+2025-04-19 18:21:51,199 - WARNING - Failed login attempt 2
+2025-04-19 18:21:54,660 - INFO - Successful login
+2025-04-19 18:21:54,805 - INFO - Data loaded successfully
+2025-04-19 18:21:57,186 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 18:21:57,189 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 18:21:57,192 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 18:21:57,192 - INFO - Data saved successfully
+2025-04-19 18:22:02,633 - INFO - Successful login
+2025-04-19 18:22:02,765 - INFO - Data loaded successfully
+2025-04-19 18:22:06,922 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 18:22:06,924 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 18:22:06,927 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 18:22:06,927 - INFO - Data saved successfully
+2025-04-19 18:30:31,775 - INFO - Successful login
+2025-04-19 18:30:31,782 - INFO - PIN successfully updated
+2025-04-19 18:30:34,394 - WARNING - Failed login attempt 1
+2025-04-19 18:30:36,224 - WARNING - Failed login attempt 2
+2025-04-19 18:30:39,594 - INFO - Successful login
+2025-04-19 18:30:39,726 - INFO - Data loaded successfully
+2025-04-19 18:30:41,005 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 18:30:41,008 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 18:30:41,010 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 18:30:41,010 - INFO - Data saved successfully
+2025-04-19 18:30:50,563 - INFO - Successful login
+2025-04-19 18:30:50,691 - INFO - Data loaded successfully
+2025-04-19 18:30:51,975 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 18:30:51,980 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 18:30:51,983 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 18:30:51,984 - INFO - Data saved successfully
+2025-04-19 18:31:53,756 - WARNING - Failed login attempt 1
+2025-04-19 18:32:03,190 - INFO - Successful login
+2025-04-19 18:32:03,200 - INFO - PIN successfully updated
+2025-04-19 18:32:06,002 - WARNING - Failed login attempt 1
+2025-04-19 18:32:09,346 - INFO - Successful login
+2025-04-19 18:32:09,478 - INFO - Data loaded successfully
+2025-04-19 18:32:12,122 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 18:32:12,127 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 18:32:12,131 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 18:32:12,131 - INFO - Data saved successfully
+2025-04-19 18:32:17,577 - WARNING - Failed login attempt 1
+2025-04-19 18:32:20,820 - INFO - Successful login
+2025-04-19 18:32:20,953 - INFO - Data loaded successfully
+2025-04-19 18:32:23,639 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 18:32:23,642 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 18:32:23,645 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 18:32:23,645 - INFO - Data saved successfully
+2025-04-19 21:56:41,929 - INFO - Successful login
+2025-04-19 21:56:42,060 - INFO - Data loaded successfully
+2025-04-19 21:57:01,183 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 21:57:01,185 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 21:57:01,189 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 21:57:01,189 - INFO - Data saved successfully
+2025-04-19 21:57:42,713 - INFO - Successful login
+2025-04-19 21:57:42,845 - INFO - Data loaded successfully
+2025-04-19 21:57:45,483 - INFO - Successfully saved secure data to inventory.csv
+2025-04-19 21:57:45,488 - INFO - Successfully saved secure data to waste.csv
+2025-04-19 21:57:45,493 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-19 21:57:45,493 - INFO - Data saved successfully
+2025-04-20 16:06:45,263 - INFO - Successful login
+2025-04-20 16:06:45,435 - INFO - Data loaded successfully
+2025-04-20 16:15:21,031 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:15:21,105 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:15:21,110 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:15:21,111 - INFO - Data saved successfully
+2025-04-20 16:19:49,778 - INFO - Successful login
+2025-04-20 16:20:45,179 - INFO - Successful login
+2025-04-20 16:21:25,807 - INFO - Successful login
+2025-04-20 16:21:25,944 - INFO - Data loaded successfully
+2025-04-20 16:23:37,451 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:23:37,458 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:23:37,463 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:23:37,463 - INFO - Data saved successfully
+2025-04-20 16:23:42,064 - INFO - Successful login
+2025-04-20 16:23:42,246 - INFO - Data loaded successfully
+2025-04-20 16:25:33,347 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:25:33,350 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:25:33,363 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:25:33,363 - INFO - Data saved successfully
+2025-04-20 16:25:48,781 - INFO - Successful login
+2025-04-20 16:25:48,940 - INFO - Data loaded successfully
+2025-04-20 16:27:12,369 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:27:12,390 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:27:12,393 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:27:12,393 - INFO - Data saved successfully
+2025-04-20 16:27:59,175 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:27:59,180 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:27:59,182 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:27:59,183 - INFO - Data saved successfully
+2025-04-20 16:28:01,915 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:28:01,918 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:28:01,921 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:28:01,921 - INFO - Data saved successfully
+2025-04-20 16:29:15,708 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:29:15,712 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:29:15,715 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:29:15,715 - INFO - Data saved successfully
+2025-04-20 16:29:23,388 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:29:23,391 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:29:23,394 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:29:23,394 - INFO - Data saved successfully
+2025-04-20 16:29:46,065 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:29:46,069 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:29:46,072 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:29:46,072 - INFO - Data saved successfully
+2025-04-20 16:30:00,567 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:30:00,572 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:30:00,574 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:30:00,575 - INFO - Data saved successfully
+2025-04-20 16:30:02,237 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:30:02,240 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:30:02,244 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:30:02,244 - INFO - Data saved successfully
+2025-04-20 16:30:03,347 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:30:03,351 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:30:03,354 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:30:03,354 - INFO - Data saved successfully
+2025-04-20 16:32:43,532 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:32:43,535 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:32:43,538 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:32:43,538 - INFO - Data saved successfully
+2025-04-20 16:32:49,258 - INFO - Successful login
+2025-04-20 16:32:49,448 - INFO - Data loaded successfully
+2025-04-20 16:33:04,145 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:33:04,149 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:33:04,152 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:33:04,153 - INFO - Data saved successfully
+2025-04-20 16:33:26,375 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:33:26,379 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:33:26,383 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:33:26,383 - INFO - Data saved successfully
+2025-04-20 16:35:24,750 - ERROR - Error deleting batch: '>' not supported between instances of 'NoneType' and 'int'
+2025-04-20 16:35:28,716 - ERROR - Error deleting batch: '>' not supported between instances of 'NoneType' and 'int'
+2025-04-20 16:35:54,803 - ERROR - Error deleting batch: Invalid batch index
+2025-04-20 16:35:58,086 - ERROR - Error deleting batch: Invalid batch index
+2025-04-20 16:35:59,762 - ERROR - Error deleting batch: Invalid batch index
+2025-04-20 16:36:18,557 - ERROR - Error deleting batch: Invalid batch index
+2025-04-20 16:36:28,176 - ERROR - Error deleting batch: Invalid batch index
+2025-04-20 16:40:09,190 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:40:09,204 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:40:09,214 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:40:09,214 - INFO - Data saved successfully
+2025-04-20 16:40:36,079 - INFO - Successful login
+2025-04-20 16:40:36,265 - INFO - Data loaded successfully
+2025-04-20 16:41:04,518 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:41:04,522 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:41:04,526 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:41:04,526 - INFO - Data saved successfully
+2025-04-20 16:41:06,518 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 16:41:06,522 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 16:41:06,525 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 16:41:06,525 - INFO - Data saved successfully
+2025-04-20 16:41:06,525 - INFO - Successfully deleted batch 0
+2025-04-20 17:02:26,132 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 17:02:26,136 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 17:02:26,139 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 17:02:26,140 - INFO - Data saved successfully
+2025-04-20 18:42:13,294 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 18:42:13,299 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 18:42:13,302 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 18:42:13,302 - INFO - Data saved successfully
+2025-04-20 18:42:18,760 - INFO - Successful login
+2025-04-20 18:42:18,976 - INFO - Data loaded successfully
+2025-04-20 18:43:32,195 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 18:43:32,200 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 18:43:32,205 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 18:43:32,205 - INFO - Data saved successfully
+2025-04-20 18:43:56,955 - INFO - Successful login
+2025-04-20 18:43:57,274 - INFO - Data loaded successfully
+2025-04-20 18:45:01,204 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 18:45:01,209 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 18:45:01,212 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 18:45:01,212 - INFO - Data saved successfully
+2025-04-20 18:46:14,389 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 18:46:14,394 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 18:46:14,396 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 18:46:14,396 - INFO - Data saved successfully
+2025-04-20 18:48:57,500 - INFO - Successful login
+2025-04-20 18:48:57,675 - INFO - Data loaded successfully
+2025-04-20 19:04:04,933 - INFO - Successfully saved secure data to inventory.csv
+2025-04-20 19:04:04,938 - INFO - Successfully saved secure data to waste.csv
+2025-04-20 19:04:04,944 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-20 19:04:04,944 - INFO - Data saved successfully
+2025-04-22 18:55:08,020 - INFO - Successful login
+2025-04-22 18:55:08,326 - INFO - Data loaded successfully
+2025-04-22 18:55:14,313 - INFO - Successfully saved secure data to inventory.csv
+2025-04-22 18:55:14,319 - INFO - Successfully saved secure data to waste.csv
+2025-04-22 18:55:14,324 - INFO - Successfully saved secure data to waste_batches.csv
+2025-04-22 18:55:14,325 - INFO - Data saved successfully
